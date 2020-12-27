@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737891130240",
+    "firebase_url": "https://loginapp-ecbe3.firebaseio.com",
+    "project_id": "loginapp-ecbe3",
+    "storage_bucket": "loginapp-ecbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737891130240:android:9ca92fd9795c3d3105bf65",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737891130240-uvc948v6cth65rs2fd2q4qbrjip818dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ9-BOROYN2Z8Un_WVUGLbVJ7olCVxYjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737891130240-uvc948v6cth65rs2fd2q4qbrjip818dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
